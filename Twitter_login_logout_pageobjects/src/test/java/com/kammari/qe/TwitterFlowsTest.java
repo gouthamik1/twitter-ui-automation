@@ -9,7 +9,7 @@ import com.kammari.util.WaitHelper;
 
 import static junit.framework.TestCase.assertTrue;
 
-public class CommerceSiteBasicFlowsTest extends FunctionalTest {
+public class TwitterFlowsTest extends FunctionalTest {
 
     @Test
     public void LoginAndLogout() throws Exception {
